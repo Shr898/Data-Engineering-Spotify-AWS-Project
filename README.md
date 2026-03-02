@@ -4,3 +4,4 @@ I have used different AWS services to make up a pipeline that will extract trans
 This project uses the spotify dataset freely available on internet.
 The services used were :
 **1. AWS s3 bucket to store the raw data of spotify **
+
